@@ -10,6 +10,7 @@ int main() {
     int a = 0,b = 0;
     
     for(char ch : s) {
+        
         if(ch == 'A') {
             a++;
         }
